@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B48B42CA-5D73-441E-A619-600BBB98AA33</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GitHubSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1F3AF1C2-172D-4FD0-9363-0741D3B68F00</key>
+		<string>https://github.com/rameeznkhan/MyProject-.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GitHubSample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1F3AF1C2-172D-4FD0-9363-0741D3B68F00</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rameeznkhan/MyProject-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1F3AF1C2-172D-4FD0-9363-0741D3B68F00</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1F3AF1C2-172D-4FD0-9363-0741D3B68F00</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyProject-</string>
+		</dict>
+	</array>
+</dict>
+</plist>

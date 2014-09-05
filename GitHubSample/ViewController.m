@@ -23,6 +23,7 @@
 -(void) viewWillAppear:(BOOL)animated
 {
     [super viewWillAppear:animated];
+    NSLog(@"Please wait. It will appear");
 }
 
 - (void)didReceiveMemoryWarning
